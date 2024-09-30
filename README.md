@@ -1,6 +1,14 @@
-# Hi there, I'm Rohan Yadav! 👋
+<h1 align="center" style="color: #007acc; font-size: 3em;">I'm Rohan Yadav</h1>
 
-### 🎮 Game Developer | 💻 Software Developer | ⚛️ Physics Enthusiast
+<h3 align="center">🎮 Game Developer | 💻 Software Developer | ⚛️ Physics Enthusiast</h3>
+
+<p align="center">
+  <a href="#">Portfolio</a> |
+  <a href="https://github.com/LastStep">GitHub</a> |
+  <a href="https://www.linkedin.com/in/yadav-rohan/">LinkedIn</a> |
+  <a href="mailto:drohanyadav@gmail.com">Email</a>
+</p>
+
 
 Welcome to my GitHub! I'm a dynamic and innovative software developer with over 3 years of experience in backend and frontend development. I hold a Master's in Advanced Computer Science from the University of Essex, and I have a solid foundation in physics. My passion lies in creating immersive gaming experiences, and I am driven by my enthusiasm for game design and development.
 
@@ -16,7 +24,7 @@ Feel free to explore my repositories, which showcase my work in game development
 ## 🛠️ Technical Skills
 
 ### Languages
-- **Python**, **R**, **Java**, **JavaScript**, **Kotlin**, **C++**
+- **Python**, **R**, **C++**, **Java**, **JavaScript**, **Kotlin**
 
 ### Frameworks & Tools
 - **Backend:** Django, REST APIs
@@ -26,41 +34,11 @@ Feel free to explore my repositories, which showcase my work in game development
 - **Databases:** SQL, Postgres, MongoDB, Redis
 - **Other Tools:** Git, Android Studio
 
-### Soft Skills
-- Adaptability, Team Leadership, Project Management, Problem Solving, Attention to Detail, Time Management
-
-## 👨‍💻 Work Experience
-
-- **Software Developer, Harmonize (India)**
-  - Developed and managed full-stack components for a CRM chatbot and web app using Django.
-  - Reduced system failures by 30% using AWS Lambda for real-time monitoring.
-
-- **Software Developer, Gridlex (India)**
-  - Led a team of 7 developers in building Help Desk software integrated with Gmail and Outlook.
-  - Designed a centralized database used across the company's App Suite to streamline operations.
-
-## 🎮 Game Projects
-
-- **2D Side Scroller Action Game (Unreal Engine 5)**
-  - Created from concept to completion as part of my Master's dissertation.
-  - Implemented a **Game Design Document (GDD)**, developed 3 playable characters, and programmed enemy AI using Behavior Trees.
-
-- **Physics-Based Demolition Game (Java & JBox2D)**
-  - Developed a custom 2D physics engine featuring **collision detection**, **vector mathematics**, and various joint types for realistic simulation.
-
-## 🎓 Education
-
-- **Master of Advanced Computer Science**, University of Essex, Colchester, UK (Oct 2023 - Sept 2024)
-- **Bachelor of Science in Physics (Hons.)**, Dyal Singh University, New Delhi, India (June 2016 - June 2020)
-
-## 📜 Certifications
-
-- **Data Science by Social Prachar**
-- **Using Python for Research by HarvardX (Coursera)**
-- **Machine Learning by Stanford University (Coursera)**
-
 ## 🎲 Favorite Games
-- **NieR: Automata**, **Elden Ring**, **Gris**, **Transistor**, **Valorant**, **Monument Valley**
+- **NieR: Automata**, **Elden Ring**
+- **Gris**, **Transistor**
+- **Valorant**
+- **Vainglory**, **Monument Valley**
 
 ## 📫 Contact Me
 
