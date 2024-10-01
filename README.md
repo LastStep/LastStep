@@ -4,7 +4,6 @@
 
 <p align="center">
   <a href="#">Portfolio</a> |
-  <a href="https://github.com/LastStep">GitHub</a> |
   <a href="https://www.linkedin.com/in/yadav-rohan/">LinkedIn</a> |
   <a href="mailto:drohanyadav@gmail.com">Email</a>
 </p>
